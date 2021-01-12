@@ -1,4 +1,5 @@
 # https://www.practicepython.org/
+
 def guess():
     game_range = 1000
     zero = 0
